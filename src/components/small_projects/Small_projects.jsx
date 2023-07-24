@@ -6,44 +6,44 @@ const Small_projects = () => {
     // in this video we will create about page
     let projects = [
         {
-            languages: ["VUE", "CSS", "HTML"],
-            title: "Bot boilerplate",
-            body: 'Start creating scalable discord.js bot with typescript in seconds'
+            languages: ["React", "Firebase", "Tailwind"],
+            title: "Job Portal app",
+            body: 'Find jobs easily'
         },
         {
-            languages: ["VUE", "JS", "HTML"],
+            languages: ["REACT", "Js", "Nodejs"],
             title: "My blog",
-            body: 'Front-end of my future blog website written in vue'
+            body: 'Frontend and backend of my blog website written in node'
         },
         {
-            languages: ["VUE", "Figma", "HTML"],
-            title: "Chess pro",
-            body: 'Figma landing page about service for viewing chess tournaments'
+            languages: ["HTML", "CSS", "JS"],
+            title: "Connect 4our",
+            body: 'Classic game to play with your friends'
         },
         {
-            languages: ["React", "CSS", "HTML"],
-            title: "My blog",
-            body: 'Front-end of my future blog website written in vue'
+            languages: ["React", "CSS", "Nextjs"],
+            title: "Food ordering menu",
+            body: 'An easily updatable restaurant or hotel menu which can be integrated with my recipe app'
         },
         {
-            languages: ["VUE", "CSS", "HTML"],
-            title: "My blog",
-            body: 'Front-end of my future blog website written in vue'
+            languages: ["React", "CSS", "Tailwind"],
+            title: "Expense tracker",
+            body: 'Track the rate at which you are spending your cash'
         },
         {
-            languages: ["VUE", "CSS", "HTML"],
-            title: "My blog",
-            body: 'Front-end of my future blog website written in vue'
+            languages: ["React", "Tailwind", "API"],
+            title: "Github Repo Search App",
+            body: 'Search for git repositories with this app'
         },
         {
-            languages: ["VUE", "CSS", "HTML"],
-            title: "My blog",
-            body: 'Front-end of my future blog website written in vue'
+            languages: ["Tailwind", "React", "HTML"],
+            title: "Recipe Maker App",
+            body: 'Make recipes and save them the using this app'
         },
         {
-            languages: ["VUE", "CSS", "HTML"],
-            title: "My blog",
-            body: 'Front-end of my future blog website written in vue'
+            languages: ["HTML", "CSS", "React"],
+            title: "Contact App",
+            body: 'Keeping contacts made easy'
         },
     ]
     // you will write dates by yourselves
@@ -77,7 +77,7 @@ const Small_projects = () => {
                                     <p className=' text-[#ABB2BF] py-4'>{body}</p>
                                     {/* we are only coders so maybe no one have figma projects */}
                                     <button className=' border border-[#C778DD] px-4 py-2 text-white duration-150 hover:bg-[#C778DD33]'>
-                                        <a href="www.github.com">Github {'<'}~{'>'}</a>
+                                        <a href="https://github.com/Arsene-MN/">Github {'<'}~{'>'}</a>
                                     </button>
                                 </div>
                             </div></>

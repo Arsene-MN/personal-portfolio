@@ -1,18 +1,18 @@
+import React from 'react';
+
 const Skills = () => {
   const skills = [
     {
       title: "Languages",
-      languages: ["TypeScript", "Lua", "Python", "JavaScript"],
+      languages: ["TypeScript,", "Golang,", "Python,", "JavaScript,", "PHP"],
     },
-    { title: "Databases", languages: ["SQLite", "PostgreSQL", "Mongo"] },
+    { title: "Databases", languages: ["SQLite,", "Mongo,", "MySQL"] },
     {
       title: "Tools",
       languages: [
         "VSCode",
-        "Neovim",
         "Linux",
-        "Figma",
-        "XFCE",
+        "Figma",,
         "Arch",
         "Git",
         "Font Awesome",
@@ -20,17 +20,18 @@ const Skills = () => {
     },
     {
       title: "Other",
-      languages: ["HTML", "CSS", "EJS", "SCSS", "REST", "Jinja"],
+      languages: ["HTML,", "CSS,", "EJS,", "REST"],
     },
     {
       title: "Frameworks",
       languages: [
-        "React",
-        "Vue",
-        "Disnake",
-        "Discord.js",
-        "Flask",
-        "Express.js",
+        "React,",
+        "Vue,",
+        "Bootstrap,",
+        "Tailwind,",
+        "Laravel,",
+        "Express.js,",
+        "Next.js",
       ],
     },
   ];

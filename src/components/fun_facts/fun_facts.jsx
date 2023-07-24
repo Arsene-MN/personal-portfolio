@@ -12,25 +12,19 @@ const Fun_facts = () => {
                 {/* left */}
                 <div className=" flex justify-start gap-4 w-full md:w-[48%] flex-wrap">
                     <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        I like winter more than summer
+                        I like summer more than winter
                     </div>
                     <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
                         I often bike with my friends
                     </div>
                     <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        I was in Egypt, Poland and Turkey
+                        I’m still studying in school
                     </div>
                     <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        I’m still studing in school
+                        I’m also a gamer
                     </div>
                     <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        I’m still studing in school
-                    </div>
-                    <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        My favorite movie is The Green Mile
-                    </div>
-                    <div className="fact border border-[#ABB2BF] p-2 text-[#ABB2BF] text-base font-normal">
-                        I don’t have any siblings
+                        My favorite movie is In Time
                     </div>
                 </div>
                 {/* right */}

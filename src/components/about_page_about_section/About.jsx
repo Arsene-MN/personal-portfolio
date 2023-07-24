@@ -11,7 +11,7 @@ const About = () => {
                         about-me
                     </div>
                     <div className=" text-white text-base font-normal mt-[14px]">
-                        Who am i?
+                        Who am I?
                     </div>
                 </div>
             </div>
@@ -20,23 +20,24 @@ const About = () => {
                 <div className="md:w-[48%] w-full">
                     {/* disc */}
                     <p className="text-[#ABB2BF] ">
-                        Hello, i’m Elias!
+                        Hello, i’m Arsene!
                         <br />
                         <br />
-                        I’m a self-taught front-end developer based in Kyiv, Ukraine. I
-                        can develop responsive websites from scratch and raise them into
-                        modern user-friendly web experiences.
+                        My journey as a developer began with a curiosity for technology and a desire to create impactful software. I possess a solid foundation in various programming languages such as the ones listed below, allowing me to adapt quickly to different tech stacks.
+                        Throughout my career, I have actively participated in the entire software development lifecycle, from conceptualization and design to implementation and testing. I enjoy collaborating with cross-functional teams, brainstorming ideas, and providing valuable insights to deliver high-quality products.
+
+
+
                         <br />
                         <br />
-                        Transforming my creativity and knowledge into a websites has been
-                        my passion for over a year. I have been helping various clients to
-                        establish their presence online. I always strive to learn about
-                        the newest technologies and frameworks.
+                        Beyond writing clean and maintainable code, I believe in building software that truly enhances the user experience. I pay attention to detail, ensuring intuitive interfaces and seamless interactions. By prioritizing user needs and feedback, I strive to create software that not only meets expectations but also exceeds them.
+
+As a team player, I actively foster a collaborative and supportive work environment. I value open communication, encourage knowledge sharing, and embrace constructive feedback. Working together as a cohesive unit, we can achieve remarkable results and drive innovation.
                     </p>
                 </div>
                 {/* right */}
                 <div className=" mx-auto">
-                    <img className="mx-auto" src={require("./imgs/man.png")} alt="" />
+                    <img className="mx-auto" src={require("./imgs/Untitled (2) 1.png")} alt="" />
                 </div>
             </div>
         </div>

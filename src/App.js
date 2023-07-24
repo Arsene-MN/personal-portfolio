@@ -16,7 +16,7 @@ function App() {
     Aos.init({ duration: 1000, delay: 500 });
   }, []);
   return (
-    <div className="bg-[#282C33]">
+    <div className="bg-[#1a1e1d]">
       {/* react-router-dom */}
       <Navbar />
       <Routes>

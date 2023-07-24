@@ -35,11 +35,11 @@ const Contact = () => {
                 {/* links */}
                 <div className="flex gap-1 items-center">
                   <img src={require("./imgs/Discord.png")} alt="" />
-                  <span className="text-[#ABB2BF]">!Elias#3519</span>
+                  <span className="text-[#ABB2BF]">Arsene#1628</span>
                 </div>
                 <div className="flex gap-1 items-center">
                   <img src={require("./imgs/Email.png")} alt="" />
-                  <span className="text-[#ABB2BF]">elias@elias.me</span>
+                  <span className="text-[#ABB2BF]">arsenemuvunyi27@gmail.com</span>
                 </div>
               </div>
             </div>
@@ -47,7 +47,6 @@ const Contact = () => {
         </div>
       </div>
     </>
-  );
-};
+  );};
 
 export default Contact;

@@ -17,10 +17,10 @@ const AboutSec = () => {
             </div>
             {/* disc */}
             <p className="text-[#ABB2BF] ">
-              Hello, i’m Elias!
+              Hello, I’m Arsene!
               <br />
               <br />
-              I’m a self-taught front-end developer based in Kyiv, Ukraine. I
+              I’m a self-taught software developer.I
               can develop responsive websites from scratch and raise them into
               modern user-friendly web experiences.
               <br />
@@ -36,13 +36,12 @@ const AboutSec = () => {
                 href="#"
                 className=" duration-150 hover:bg-[#C778DD33] border border-[#C778DD] px-4 py-2 text-white "
               >
-                <button>Read more -{">"}</button>
               </a>
             </div>
           </div>
           {/* right */}
           <div  data-aos = "fade-left" className=" mx-auto">
-            <img className="mx-auto" src={require("./imgs/man.png")} alt="" />
+            <img className="mx-auto" src={require("./imgs/Group 53 1.png")} alt="" />
           </div>
         </div>
       </div>

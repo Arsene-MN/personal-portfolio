@@ -1,28 +1,29 @@
 import Project_card from "../project_card/Project_card";
-import first from "./imgs/Rectangle 22.jpg";
-import second from "./imgs/Rectangle 22.png";
-import third from "./imgs/Rectangle 22 (1).png";
+import first from "./imgs/uncinq.png";
+import second from "./imgs/Untitled.png";
+import third from "./imgs/Weather Widget 1.png";
 
 const Projects = () => {
   // date
   const projects = [
     {
       img: first,
-      langs: ["html", "css", "javascript", "react", "tailwind css"],
-      title: "ChertNodes",
-      disc: "Minecraft servers hosting ",
+      langs: ["html", "css", "react", "tailwind", "PHP"],
+      title: "UNCINQ",
+      disc: "Your partner in web and app development",
     },
     {
       img: second,
-      langs: ["html", "css", "javascript", "Node.js"],
-      title: "ProtectX",
-      disc: "Discord anti-crash bot ",
+      langs: ["html", "tailwind", "react", "Node.js"],
+      title: "Bourbon coffee shop",
+      link:"uncinq.com",
+      disc: "Website for Bourbon coffee shop",
     },
     {
       img: third,
-      langs: ["html", "css", "javascript", "Node.js", "python"],
-      title: "Kahoot Answers Viewer",
-      disc: "Get answers to your kahoot quiz ",
+      langs: ["html", "css", "react", "tailwind.css", "rest.api"],
+      title: "Cloudia",
+      disc: "Weather forecast web app",
     },
   ];
 
@@ -40,7 +41,7 @@ const Projects = () => {
           </div>
           {/* right */}
           <div className=" text-white font-medium">
-            <a href="">
+            <a href="./projects">
               <span>View all ~~&gt;</span>
             </a>
           </div>
