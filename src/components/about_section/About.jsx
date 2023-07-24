@@ -20,15 +20,15 @@ const AboutSec = () => {
               Hello, I’m Arsene!
               <br />
               <br />
-              I’m a self-taught software developer.I
+              I’m a software developer. I
               can develop responsive websites from scratch and raise them into
-              modern user-friendly web experiences.
+              modern user-friendly web experiences. I can also develop large systems as well as mobile apps.
               <br />
               <br />
-              Transforming my creativity and knowledge into a websites has been
-              my passion for over a year. I have been helping various clients to
-              establish their presence online. I always strive to learn about
-              the newest technologies and frameworks.
+              Transforming my creativity and knowledge into software has been
+              my passion for some time. I have been helping various clients to
+              establish their presence online. I also strive to learn about
+              the newest technologies.
             </p>
             {/* button */}
             <div className="mt-7">
